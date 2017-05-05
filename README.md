@@ -1,3 +1,16 @@
+# Explore Height and Weight of Professional Athletes
+Heights and Weights of professional athletes in the EPL, NHL, and NBA are investigated
+
+
+## Relevant code:
+Creation of custom dataset from below sources
+* `./create_json_dataset.ipynb`
+
+Exploring the datasets
+* `./Explore_ht-vs-wt_sport.ipynb`
+
+
+## Resources
 Datasets source: http://www.stat.ufl.edu/~winner/datasets.html
 * NBA 2013-2014 Player Heights and Weights
   * `./raw_data/nba_ht_wt.csv`
