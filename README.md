@@ -2,7 +2,7 @@
 Heights and Weights of professional athletes in the EPL, NHL, and NBA are investigated
 
 ## Overview
-
+![overview](./images/height_weight_sports_2014-overview.png?raw=true "Title")
 
 ## Relevant code:
 Creation of custom dataset from below sources
@@ -10,6 +10,7 @@ Creation of custom dataset from below sources
 
 Exploring the datasets
 * `./Explore_ht-vs-wt_sport.ipynb`
+* The cleaned dataset (with heights&weights for entries by sport) can be downloaded from `./ht_wt_data_2014.json`
 
 
 ## Resources
