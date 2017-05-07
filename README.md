@@ -1,6 +1,14 @@
 # Explore Height and Weight of Professional Athletes
 Heights and Weights of professional athletes in the EPL, NHL, and NBA are investigated
 
+FAQ:
+* What's the EPL?
+  * English Premier League
+* Hmmmm ok, what's the _English Premier League_?
+  * Football League
+* Ok, ok, and so by _football_ do you mean _soccer_?
+  * Yes; [wiki link to EPL](https://en.wikipedia.org/wiki/Premier_League)
+
 ## Overview
 ![overview](./images/height_weight_sports_2014-overview.png?raw=true "Title")
 
